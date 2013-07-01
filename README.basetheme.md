@@ -1,5 +1,5 @@
-Towards Hadron as a Drupal Subtheme
-===================================
+Towards Hadron as a Drupal base theme
+=====================================
 
 The Hadron serve app is a great prototyping tool. What we need is a matching subtheme that utilizes the same markup and front-end libraries to streamline the theming process.
 
